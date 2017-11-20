@@ -1,0 +1,345 @@
+{
+  "job": {
+    "lang": "en-US", 
+    "user_id": 24083, 
+    "name": "I_ve_Been_To_The_Mountaintop.wav", 
+    "duration": 30, 
+    "created_at": "Mon Nov 20 22:05:04 2017", 
+    "id": 5517631
+  }, 
+  "speakers": [
+    {
+      "duration": "28.18", 
+      "confidence": null, 
+      "name": "M1", 
+      "time": "0.09"
+    }
+  ], 
+  "words": [
+    {
+      "duration": "0.09", 
+      "confidence": "0.960", 
+      "name": "And", 
+      "time": "0.09"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "I've", 
+      "time": "0.18"
+    }, 
+    {
+      "duration": "1.71", 
+      "confidence": "1.000", 
+      "name": "seen", 
+      "time": "0.42"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "2.49"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "0.940", 
+      "name": "Promised", 
+      "time": "2.61"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "Land", 
+      "time": "3.09"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "3.36"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "I", 
+      "time": "5.01"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "may", 
+      "time": "5.13"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "not", 
+      "time": "5.34"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "get", 
+      "time": "5.58"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "there", 
+      "time": "5.88"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "6.09"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "you", 
+      "time": "6.36"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "6.48"
+    }, 
+    {
+      "duration": "0.14", 
+      "confidence": "0.980", 
+      "name": "But", 
+      "time": "7.60"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "I", 
+      "time": "7.74"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "want", 
+      "time": "7.86"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "you", 
+      "time": "8.16"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "8.25"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "know", 
+      "time": "8.37"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "tonight", 
+      "time": "8.70"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "9.24"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "That", 
+      "time": "10.41"
+    }, 
+    {
+      "duration": "0.37", 
+      "confidence": "1.000", 
+      "name": "we", 
+      "time": "10.59"
+    }, 
+    {
+      "duration": "0.13", 
+      "confidence": "0.530", 
+      "name": "as", 
+      "time": "10.96"
+    }, 
+    {
+      "duration": "0.05", 
+      "confidence": "0.530", 
+      "name": "a", 
+      "time": "11.09"
+    }, 
+    {
+      "duration": "0.34", 
+      "confidence": "0.530", 
+      "name": "people", 
+      "time": "11.14"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "11.48"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "0.990", 
+      "name": "Will", 
+      "time": "12.36"
+    }, 
+    {
+      "duration": "0.39", 
+      "confidence": "1.000", 
+      "name": "get", 
+      "time": "12.54"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "12.93"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "13.08"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "promised", 
+      "time": "13.20"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "1.000", 
+      "name": "land", 
+      "time": "13.71"
+    }, 
+    {
+      "duration": "0", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "14.16"
+    }, 
+    {
+      "duration": "0.41", 
+      "confidence": "0.590", 
+      "name": "And", 
+      "time": "20.30"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "0.910", 
+      "name": "I'm", 
+      "time": "21.29"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "0.940", 
+      "name": "not", 
+      "time": "21.47"
+    }, 
+    {
+      "duration": "0.23", 
+      "confidence": "0.370", 
+      "name": "shy", 
+      "time": "21.71"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "0.680", 
+      "name": "about", 
+      "time": "22.29"
+    }, 
+    {
+      "duration": "0.25", 
+      "confidence": "0.520", 
+      "name": "saying", 
+      "time": "23.11"
+    }, 
+    {
+      "duration": "0.19", 
+      "confidence": "0.800", 
+      "name": "I'm", 
+      "time": "23.54"
+    }, 
+    {
+      "duration": "0.13", 
+      "confidence": "0.690", 
+      "name": "not", 
+      "time": "23.73"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.720", 
+      "name": "a", 
+      "time": "24.85"
+    }, 
+    {
+      "duration": "0.47", 
+      "confidence": "0.890", 
+      "name": "man", 
+      "time": "25.27"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "0.780", 
+      "name": ".", 
+      "time": "25.74"
+    }, 
+    {
+      "duration": "0.81", 
+      "confidence": "1.000", 
+      "name": "My", 
+      "time": "25.98"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "0.900", 
+      "name": "eyes", 
+      "time": "26.79"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "have", 
+      "time": "27.00"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "1.000", 
+      "name": "seen", 
+      "time": "27.18"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "27.60"
+    }, 
+    {
+      "duration": "0.49", 
+      "confidence": "0.340", 
+      "name": “glory”, 
+      "time": "27.78"
+    }, 
+    {
+      "duration": "0.00", 
+      "confidence": "1.000", 
+      "name": ".", 
+      "time": "28.27"
+    }
+  ], 
+  "format": "1.0"
+}
